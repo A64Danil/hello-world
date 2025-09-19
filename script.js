@@ -1,1 +1,1 @@
-console.log('hello world - пока вы работали, файл поменялся =)');
+console.log('hello world 2');
